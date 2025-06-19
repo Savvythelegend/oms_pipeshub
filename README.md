@@ -5,7 +5,7 @@
 * Basic queuing of incoming orders
 * Modify or cancel orders before they're sent
 * Rate limit (X orders per second)
-* Processes orders only during a configured time window
+* Processes orders only during a configured time window (10:00 AM - 1:00 PM)
 * Tracks latency between sending and receiving order responses (simulated)
 
 ## How to Run
