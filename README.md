@@ -24,5 +24,3 @@ python oms_main.py
 * `oms_main.py` – basic test script to check flow
 
 ---
-
-*Created by Mehfooj as part of an internship task submission – June 2025*
